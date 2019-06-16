@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Poruszanie">
+    <output-path>$PROJECT_DIR$/../plik/out/artifacts/Poruszanie</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Move" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Poruszanie.jar">
+        <element id="module-output" name="Poruszanie" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
